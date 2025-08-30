@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.swp
+*~
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# ASP.NET Core
+wwwroot/lib/
+
+# Logs
+*.log
